@@ -1,0 +1,9 @@
+Package: com.34306.adspeed
+Name: Ads Speed
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: A simple tweak that can inject into game to speedup ads for reward.
+Maintainer: Little 34306
+Author: 34306
+Section: Tweaks
